@@ -74,6 +74,9 @@ console.log("my_touchstart") ;
     }
 
     //Additional activity to clear area.
+function cleararea(){
+ctx.clearRect(0,0,canvas.width,canvas.height);
+}
 
     
 
