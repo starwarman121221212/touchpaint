@@ -10,7 +10,7 @@ var width = screen.width;
 
     //Define "new_width" and "new_height" variables to store new screen width and height.
 new_width=screen.width-70 ;
-new_height=screen.height-300 ;
+new_height=screen.height-200 ;
 
     /*If the screen size is less than 992 (means 992px), then change the width and height of 
     the canvas with the new width and new height */
